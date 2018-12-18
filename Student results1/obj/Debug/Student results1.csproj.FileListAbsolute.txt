@@ -1,0 +1,20 @@
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\obj\Debug\Student results1.csprojResolveAssemblyReference.cache
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\obj\Debug\Student_results1.Form1.resources
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\obj\Debug\Student_results1.Properties.Resources.resources
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\obj\Debug\Student results1.csproj.GenerateResource.cache
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\obj\Debug\Student results1.csproj.CoreCompileInputs.cache
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\bin\Debug\Student results1.exe.config
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\bin\Debug\Student results1.exe
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\bin\Debug\Student results1.pdb
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\obj\Debug\Student results1.exe
+C:\Users\KingLouisTheGreat\source\repos\Student results1\Student results1\obj\Debug\Student results1.pdb
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\bin\Debug\Student results1.exe.config
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\bin\Debug\Student results1.exe
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\bin\Debug\Student results1.pdb
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\obj\Debug\Student results1.csprojAssemblyReference.cache
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\obj\Debug\Student_results1.Form1.resources
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\obj\Debug\Student_results1.Properties.Resources.resources
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\obj\Debug\Student results1.csproj.GenerateResource.cache
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\obj\Debug\Student results1.csproj.CoreCompileInputs.cache
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\obj\Debug\Student results1.exe
+C:\Users\KingLouisTheGreat\Documents\Visual Studio 2017\Student results1\Student results1\obj\Debug\Student results1.pdb
